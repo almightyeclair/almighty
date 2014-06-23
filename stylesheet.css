@@ -6,3 +6,12 @@ img {
 table, td {
 	border: 1px #70b8ff;
 }
+div {
+	background-color: #babaeb;
+	margin: auto;
+	border: 2px solid black;
+	border-radius: 11px;
+}
+div p {
+	text-align: center;
+}
